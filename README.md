@@ -1,2 +1,2 @@
-# python-discord-tts
-A Discord Text-To-Speech bot made by meeeeeeeeeeeeee!!!!!!
+# Discord-Bot
+A Discord Text-To-Speech bot made by meeeeeeeeeeeeee!!!!!!- IN DEVELOPMENT
