@@ -1,2 +1,2 @@
 # Discord-Bot
-A Discord Text-To-Speech bot made by meeeeeeeeeeeeee!!!!!!- IN DEVELOPMENT
+A Discord music bot made by meeeeeeeeeeeeee!!!!!!- IN DEVELOPMENT
